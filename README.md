@@ -1,5 +1,5 @@
 <header>
-  <h1>Hi! I'm Felipe Carvalho!</h1>
+  <h1>Hello! I'm Felipe Carvalho!</h1>
   <ul>
     <li>I'm looking for Opportunities/ Projects that can add any knowledge to me.</li>
     <li>I have 19 years old.</li>
@@ -15,7 +15,7 @@
   <ul>
     <li>Busco por Oportunidades/ Projetos.</li>
     <li>Tenho 19 anos</li>
-    <li>Conhecimentos em Python, C, HTML5, CSS3, JavaScript e Java.</li>
+    <li>Conhecimentos em SQL, HTML5, CSS3, JavaScript e Java.</li>
     <li>Estou graduando Analise e Desenvolvimento de Sistemas</li>
     <li>Atualmente estudando Java Script e Kotlin.</li>
   </ul>
