@@ -35,10 +35,11 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Felipesc023&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipesc023&layout=compact&langs_count=7&theme=dark"/>
   <br/>
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="ícone linguagem de marcação html5" title="Favicon HTML5"/>
   <img src="https://img.icons8.com/color/48/000000/sql.png" alt="ícone linguagem de SQL" title="Favicon SQL"/>
+  <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="ícone linguagem de Kotlin" title="Favicon Kotlin"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="ícone linguagem de marcação CSS3" title="Favicon CSS3"/>
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="ícone linguagem de marcação JS" title="Favicon Javascript"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="ícone linguagem de marcação html5" title="Favicon HTML5"/>
 </div>
   
   ##
