@@ -26,7 +26,7 @@
   <section>
       <article>
           <h2>I'm currently studying/ Estudando Atualmente : </h2>
-          <p><strong>HTML5</strong>, <strong>CSS3</strong>, <strong>JavaSrcipt</strong> and <strong>Java</strong></p> and <strong>Kotlin</strong>
+          <p><strong>HTML5</strong>, <strong>CSS3</strong>, <strong>JavaSrcipt</strong> and <strong>Java</strong> and <strong>Kotlin</strong></p>
       </article>
   </section>
 
